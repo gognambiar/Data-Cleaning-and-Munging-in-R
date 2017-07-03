@@ -1,0 +1,289 @@
+"","team_api_id","team_long_name","team_short_name","buildupattributes","chancecreationattributes","defenseattributes","goals"
+"1",9987,"KRC Genk","GEN",148,155,163,348
+"2",9993,"Beerschot AC","BAC",NA,151,158,174
+"3",10000,"SV Zulte-Waregem","ZUL",147,131,139,306
+"4",9994,"Sporting Lokeren","LOK",159,154,149,279
+"5",9984,"KSV Cercle Brugge","CEB",145,152,168,213
+"6",8635,"RSC Anderlecht","AND",149,160,164,427
+"7",9991,"KAA Gent","GEN",142,142,155,390
+"8",9998,"RAEC Mons","MON",160,168,138,129
+"9",9985,"Standard de Liège","STL",161,173,151,341
+"10",8203,"KV Mechelen","MEC",134,150,145,285
+"11",8342,"Club Brugge KV","CLB",139,146,158,421
+"12",9999,"KSV Roeselare","ROS",NA,125,205,62
+"13",8571,"KV Kortrijk","KOR",129,134,143,267
+"14",9996,"Royal Excel Mouscron","MOU",150,150,140,42
+"15",10001,"KVC Westerlo","WES",148,144,146,217
+"16",9986,"Sporting Charleroi","CHA",160,146,136,201
+"17",9997,"Sint-Truidense VV","STT",NA,154,113,115
+"18",9989,"Lierse SK","LIE",171,169,152,113
+"19",6351,"KAS Eupen","EUP",NA,160,155,28
+"20",1773,"Oud-Heverlee Leuven","O-H",153,157,137,126
+"21",8475,"Waasland-Beveren","WAA",132,140,94,105
+"22",8573,"KV Oostende","OOS",155,140,133,102
+"23",274581,"Royal Excel Mouscron","MOP",150,150,140,71
+"24",10260,"Manchester United","MUN",124,133,163,582
+"25",10261,"Newcastle United","NEW",152,147,131,324
+"26",9825,"Arsenal","ARS",140,118,147,573
+"27",8659,"West Bromwich Albion","WBA",145,163,130,305
+"28",8472,"Sunderland","SUN",137,164,141,333
+"29",8650,"Liverpool","LIV",171,114,164,531
+"30",8654,"West Ham United","WHU",171,170,108,326
+"31",8528,"Wigan Athletic","WIG",144,151,154,200
+"32",10252,"Aston Villa","AVL",154,146,133,335
+"33",8456,"Manchester City","MCI",123,98,149,606
+"34",8668,"Everton","EVE",128,135,169,439
+"35",8655,"Blackburn Rovers","BLB",185,159,157,175
+"36",8549,"Middlesbrough","MID",138,135,122,28
+"37",8586,"Tottenham Hotspur","TOT",133,145,173,481
+"38",8559,"Bolton Wanderers","BOL",152,170,145,181
+"39",10194,"Stoke City","STK",138,159,132,322
+"40",8667,"Hull City","HUL",151,159,121,144
+"41",9879,"Fulham","FUL",134,152,98,265
+"42",8455,"Chelsea","CHE",144,119,126,583
+"43",8462,"Portsmouth","POR",148,149,123,72
+"44",8658,"Birmingham City","BIR",163,203,143,75
+"45",8602,"Wolverhampton Wanderers","WOL",136,150,150,118
+"46",8191,"Burnley","BUR",153,176,183,70
+"47",8483,"Blackpool","BLA",162,166,131,55
+"48",10003,"Swansea City","SWA",131,125,120,233
+"49",10172,"Queens Park Rangers","QPR",130,166,148,115
+"50",9850,"Norwich City","NOR",138,147,128,160
+"51",8466,"Southampton","SOU",129,126,159,216
+"52",9798,"Reading","REA",144,169,150,43
+"53",9826,"Crystal Palace","CRY",173,186,111,119
+"54",8344,"Cardiff City","CAR",168,154,113,32
+"55",8197,"Leicester City","LEI",164,157,178,114
+"56",8678,"Bournemouth","BOU",130,141,160,45
+"57",9817,"Watford","WAT",145,141,135,40
+"58",8583,"AJ Auxerre","AUX",168,164,119,168
+"59",9830,"FC Nantes","NAN",189,153,132,135
+"60",9827,"Girondins de Bordeaux","BOR",139,156,158,404
+"61",7819,"SM Caen","CAE",157,155,136,220
+"62",9746,"Le Havre AC","LEH",154,155,154,30
+"63",9831,"OGC Nice","NIC",156,153,165,342
+"64",8682,"Le Mans FC","LEM",NA,167,142,79
+"65",8689,"FC Lorient","LOR",149,147,162,378
+"66",9748,"Olympique Lyonnais","LYO",161,170,140,497
+"67",9941,"Toulouse FC","TOU",158,122,130,339
+"68",9829,"AS Monaco","MON",137,133,169,287
+"69",9847,"Paris Saint-Germain","PSG",130,158,166,568
+"70",8481,"AS Nancy-Lorraine","NAN",146,172,139,203
+"71",8639,"LOSC Lille","LIL",124,184,149,450
+"72",9851,"Stade Rennais FC","REN",167,165,141,367
+"73",8592,"Olympique de Marseille","MAR",169,149,156,462
+"74",9874,"FC Sochaux-Montbéliard","SOC",164,176,146,246
+"75",9855,"Grenoble Foot 38","GRE",NA,150,140,55
+"76",9873,"Valenciennes FC","VAL",160,174,144,256
+"77",9853,"AS Saint-Étienne","ETI",165,164,148,371
+"78",8588,"RC Lens","LEN",158,148,139,107
+"79",10249,"Montpellier Hérault SC","MON",162,142,157,344
+"80",4170,"US Boulogne Cote D'Opale","BOU",NA,154,155,31
+"81",108893,"AC Arles-Avignon","ARL",156,138,158,21
+"82",8521,"Stade Brestois 29","BRE",161,168,129,99
+"83",8576,"AC Ajaccio","AJA",168,138,138,116
+"84",4087,"Évian Thonon Gaillard FC","ETG",149,164,140,180
+"85",9836,"Dijon FCO","DIJ",154,153,149,38
+"86",9837,"Stade de Reims","REI",134,158,127,168
+"87",7794,"SC Bastia","BAS",174,156,147,165
+"88",10242,"ES Troyes AC","TRO",148,147,137,71
+"89",9747,"En Avant de Guingamp","GUI",158,134,145,122
+"90",8550,"FC Metz","MET",152,153,127,31
+"91",8121,"Angers SCO","ANG",159,140,139,40
+"92",6391,"GFC Ajaccio","GAJ",153,163,141,37
+"93",9823,"FC Bayern Munich","BMU",97,90,184,653
+"94",9790,"Hamburger SV","HAM",150,167,134,344
+"95",8178,"Bayer 04 Leverkusen","LEV",157,192,183,483
+"96",9789,"Borussia Dortmund","DOR",148,163,176,551
+"97",10189,"FC Schalke 04","S04",143,162,170,426
+"98",9904,"Hannover 96","HAN",144,129,146,359
+"99",8721,"VfL Wolfsburg","WOL",170,185,167,463
+"100",8722,"1. FC Köln","FCK",171,164,149,226
+"101",9810,"Eintracht Frankfurt","EFR",130,145,145,296
+"102",8177,"Hertha BSC Berlin","HBE",146,172,152,238
+"103",9912,"DSC Arminia Bielefeld","BIE",166,159,138,29
+"104",8697,"SV Werder Bremen","WBR",174,192,183,423
+"105",8398,"FC Energie Cottbus","COT",126,175,154,30
+"106",8226,"TSG 1899 Hoffenheim","HOF",171,187,162,400
+"107",9788,"Borussia Mönchengladbach","GLA",116,113,128,403
+"108",10269,"VfB Stuttgart","STU",155,172,117,415
+"109",8295,"Karlsruher SC","KAR",153,146,119,30
+"110",9911,"VfL Bochum","BOC",164,172,172,72
+"111",8358,"SC Freiburg","FRE",151,144,144,245
+"112",8165,"1. FC Nürnberg","NUR",153,162,114,193
+"113",9905,"1. FSV Mainz 05","MAI",156,133,164,320
+"114",8350,"1. FC Kaiserslautern","KAI",155,167,145,72
+"115",8152,"FC St. Pauli","STP",160,153,140,35
+"116",8406,"FC Augsburg","AUG",165,166,143,201
+"117",8194,"Fortuna Düsseldorf","FDU",156,178,165,39
+"118",8357,"SpVgg Greuther Fürth","GRF",167,149,170,26
+"119",9776,"Eintracht Braunschweig","BRA",164,172,157,29
+"120",8460,"SC Paderborn 07","PAD",175,160,108,31
+"121",8234,"FC Ingolstadt 04","ING",152,151,134,33
+"122",8262,"SV Darmstadt 98","DAR",179,174,129,38
+"123",8524,"Atalanta","ATA",146,138,148,283
+"124",8551,"Siena","SIE",144,183,144,149
+"125",8529,"Cagliari","CAG",134,196,187,309
+"126",8543,"Lazio","LAZ",188,220,190,417
+"127",8530,"Catania","CAT",170,141,147,251
+"128",10233,"Genoa","GEN",184,134,127,392
+"129",8533,"Chievo Verona","CHI",187,170,156,285
+"130",8690,"Reggio Calabria","REG",163,184,138,30
+"131",8535,"Fiorentina","FIO",121,172,178,440
+"132",9885,"Juventus","JUV",105,195,135,543
+"133",8564,"Milan","ACM",170,171,164,496
+"134",9857,"Bologna","BOL",164,132,132,263
+"135",8686,"Roma","ROM",142,191,141,530
+"136",9875,"Napoli","NAP",160,189,157,514
+"137",9882,"Sampdoria","SAM",130,130,154,318
+"138",8636,"Inter","INT",181,169,159,496
+"139",9804,"Torino","TOR",174,159,137,241
+"140",9888,"Lecce","LEC",NA,135,140,121
+"141",8600,"Udinese","UDI",185,189,154,415
+"142",8540,"Palermo","PAL",168,158,152,351
+"143",9976,"Bari","BAR",157,143,156,76
+"144",8537,"Livorno","LIV",183,134,126,66
+"145",10167,"Parma","PAR",147,176,132,272
+"146",9880,"Cesena","CES",138,163,145,98
+"147",9858,"Brescia","BRE",141,158,150,34
+"148",6269,"Novara","NOV",179,168,138,34
+"149",9878,"Pescara","PES",148,131,128,27
+"150",9876,"Hellas Verona","VER",124,148,158,145
+"151",7943,"Sassuolo","SAS",182,169,138,141
+"152",8534,"Empoli","EMP",145,186,160,86
+"153",9891,"Frosinone","FRO",157,151,159,35
+"154",208931,"Carpi","CAP",190,160,115,37
+"155",8277,"Vitesse","VIT",145,161,180,423
+"156",8674,"FC Groningen","GRO",142,170,149,390
+"157",9803,"Roda JC Kerkrade","ROD",133,146,118,343
+"158",8611,"FC Twente","TWE",131,140,140,509
+"159",8525,"Willem II","WII",150,153,135,222
+"160",8593,"Ajax","AJA",117,143,176,647
+"161",8464,"N.E.C.","NEC",150,156,141,310
+"162",8526,"De Graafschap","GRA",NA,150,136,130
+"163",9908,"FC Utrecht","UTR",143,147,159,408
+"164",8640,"PSV","PSV",153,125,128,652
+"165",9791,"Heracles Almelo","HER",147,165,169,403
+"166",10235,"Feyenoord","FEY",131,146,129,489
+"167",8614,"Sparta Rotterdam","SPA",NA,140,90,76
+"168",10217,"ADO Den Haag","HAA",162,145,142,366
+"169",10228,"SC Heerenveen","HEE",150,152,138,470
+"170",10229,"AZ","ALK",154,173,166,492
+"171",9761,"NAC Breda","NAC",153,128,115,294
+"172",10219,"RKC Waalwijk","RKC",142,133,99,153
+"173",9839,"VVV-Venlo","VEN",NA,164,120,152
+"174",10218,"Excelsior","EXC",163,136,106,154
+"175",6413,"PEC Zwolle","ZWO",136,165,181,204
+"176",7788,"SC Cambuur","CAM",136,134,138,119
+"177",6433,"Go Ahead Eagles","GAE",160,131,141,74
+"178",6631,"FC Dordrecht","DOR",134,176,164,24
+"179",10265,"Wisła Kraków","WIS",119,101,157,332
+"180",8031,"Polonia Bytom","POB",NA,122,162,88
+"181",8020,"Polonia Bytom","GOR",NA,122,162,245
+"182",1601,"Ruch Chorzów","CHO",133,176,136,280
+"183",8673,"Legia Warszawa","LEG",137,167,168,409
+"184",2183,"P. Warszawa","PWA",NA,131,139,184
+"185",8025,"Śląsk Wrocław","SLA",140,157,139,318
+"186",8030,"Lechia Gdańsk","LGD",162,183,149,279
+"187",8244,"Widzew Łódź","LOD",190,184,139,50
+"188",8242,"Odra Wodzisław","ODR",NA,155,205,50
+"189",2182,"Lech Poznań","POZ",147,196,153,372
+"190",8569,"GKS Bełchatów","BEL",143,139,132,190
+"191",8322,"Arka Gdynia","ARK",NA,147,140,77
+"192",1957,"Jagiellonia Białystok","BIA",158,152,162,287
+"193",8028,"Piast Gliwice","PIG",183,169,129,204
+"194",2186,"Cracovia","CKR",125,165,157,235
+"195",8245,"Korona Kielce","KKI",178,153,135,237
+"196",8021,"Zagłębie Lubin","ZAG",133,149,148,207
+"197",8024,"Widzew Łódź","WID",190,184,139,122
+"198",8033,"Podbeskidzie Bielsko-Biała","POD",189,166,102,169
+"199",8023,"Pogoń Szczecin","POG",119,144,158,152
+"200",8027,"Zawisza Bydgoszcz","ZAW",145,147,143,75
+"201",8019,"Górnik Łęczna","LEC",140,139,149,61
+"202",9773,"FC Porto","POR",173,190,178,541
+"203",9807,"CF Os Belenenses","BEL",156,128,135,148
+"204",9768,"Sporting CP","SCP",178,147,174,411
+"205",7844,"Vitória Guimarães","GUI",131,173,141,300
+"206",10238,"Vitória Setúbal","SET",149,158,132,238
+"207",6403,"FC Paços de Ferreira","FER",142,169,139,292
+"208",10264,"SC Braga","BRA",145,166,120,398
+"209",10215,"Académica de Coimbra","ACA",150,166,138,240
+"210",7841,"Rio Ave FC","RA",157,177,153,248
+"211",9772,"SL Benfica","BEN",177,185,171,568
+"212",6421,"Leixões SC","LEI",NA,165,90,55
+"213",10214,"CD Nacional","NAC",167,150,141,332
+"214",9809,"Naval 1° de Maio","NAV",NA,135,121,71
+"215",10212,"CS Marítimo","MAR",176,186,133,316
+"216",9771,"União de Leiria, SAD","ULE",NA,148,154,85
+"217",2033,"S.C. Olhanense","OLH",147,134,105,138
+"218",10211,"SC Beira Mar","B-M",NA,165,150,93
+"219",9764,"Gil Vicente FC","GV",176,147,132,110
+"220",8348,"Moreirense FC","MOR",139,144,138,101
+"221",7842,"Estoril Praia","EST",167,139,150,167
+"222",158085,"FC Arouca","ARO",170,160,113,101
+"223",6547,"FC Penafiel","PEN",147,146,121,29
+"224",8613,"Boavista FC","BOA",153,128,148,51
+"225",8596,"Falkirk","FAL",NA,200,200,68
+"226",8548,"Rangers","RAN",153,153,151,324
+"227",9860,"Heart of Midlothian","HEA",168,176,158,317
+"228",9927,"Motherwell","MOT",165,116,132,403
+"229",8597,"Kilmarnock","KIL",158,158,144,346
+"230",10251,"Hibernian","HIB",148,139,124,259
+"231",8485,"Aberdeen","ABE",176,186,157,365
+"232",8066,"Inverness Caledonian Thistle","INV",127,174,139,345
+"233",9925,"Celtic","CEL",156,164,169,695
+"234",9800,"St. Mirren","MIR",124,164,166,257
+"235",8429,"Hamilton Academical FC","HAM",143,197,155,185
+"236",9938,"Dundee United","DUU",171,149,143,438
+"237",8467,"St. Johnstone FC","JOH",162,136,140,308
+"238",8457,"Dunfermline Athletic","DUN",NA,168,148,40
+"239",8284,"Dundee FC","DUF",142,158,146,127
+"240",8649,"Ross County FC","ROS",153,153,123,192
+"241",8426,"Partick Thistle F.C.","PAR",143,160,141,135
+"242",10267,"Valencia CF","VAL",116,146,147,484
+"243",8661,"RCD Mallorca","MAL",172,163,156,238
+"244",8371,"CA Osasuna","OSA",143,168,168,232
+"245",10205,"Villarreal CF","VIL",126,143,139,364
+"246",9783,"RC Deportivo de La Coruña","COR",155,145,154,241
+"247",8633,"Real Madrid CF","REA",153,165,175,843
+"248",8388,"CD Numancia","NUM",137,152,158,38
+"249",8634,"FC Barcelona","BAR",122,141,191,849
+"250",8696,"Racing Santander","SAN",147,159,151,160
+"251",8302,"Sevilla FC","SEV",159,165,149,478
+"252",9869,"Real Sporting de Gijón","SPG",153,159,140,200
+"253",8305,"Getafe CF","GET",113,143,134,345
+"254",8603,"Real Betis Balompié","BET",145,155,165,225
+"255",8479,"RC Recreativo","HUE",118,109,143,34
+"256",8558,"RCD Espanyol","ESP",146,152,122,338
+"257",10281,"Real Valladolid","VAL",148,147,134,170
+"258",8315,"Athletic Club de Bilbao","BIL",131,146,156,415
+"259",9865,"UD Almería","ALM",152,151,135,202
+"260",9906,"Atlético Madrid","AMA",157,172,143,524
+"261",9864,"Málaga CF","MAL",129,131,136,377
+"262",9868,"Xerez Club Deportivo","XER",NA,138,153,38
+"263",8394,"Real Zaragoza","ZAR",154,165,140,159
+"264",9867,"CD Tenerife","TEN",163,161,171,40
+"265",10278,"Hércules Club de Fútbol","HER",154,178,160,36
+"266",8581,"Levante UD","LEV",163,178,111,241
+"267",8560,"Real Sociedad","SOC",162,166,155,316
+"268",7878,"Granada CF","GRA",166,175,155,179
+"269",8370,"Rayo Vallecano","RAY",125,135,169,247
+"270",9910,"RC Celta de Vigo","CEL",152,139,169,184
+"271",10268,"Elche CF","ELC",151,164,158,65
+"272",8372,"SD Eibar","EIB",165,166,142,83
+"273",7869,"Córdoba CF","COR",141,171,129,22
+"274",8306,"UD Las Palmas","LAS",147,148,149,45
+"275",9956,"Grasshopper Club Zürich","GRA",164,152,126,429
+"276",6493,"AC Bellinzona","BEL",NA,148,138,128
+"277",10192,"BSC Young Boys","YB",172,151,128,529
+"278",9931,"FC Basel","BAS",170,186,158,619
+"279",9930,"FC Aarau","AAR",142,181,145,153
+"280",10179,"FC Sion","SIO",155,165,146,371
+"281",10199,"FC Luzern","LUZ",165,160,151,421
+"282",9824,"FC Vaduz","VAD",141,137,133,100
+"283",7955,"Neuchâtel Xamax","XAM",NA,121,116,171
+"284",10243,"FC Zürich","ZUR",157,151,146,468
+"285",10190,"FC St. Gallen","GAL",146,115,128,276
+"286",10191,"FC Thun","THU",152,166,145,279
+"287",9777,"Servette FC","SER",NA,164,143,77
+"288",7730,"FC Lausanne-Sports","LAU",141,164,145,99
